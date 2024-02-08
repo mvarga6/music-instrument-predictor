@@ -1,3 +1,4 @@
 *.tar.gz
 workspace/nsynth-*
+*.pkl
 .ipynb_checkpoints/
